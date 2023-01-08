@@ -15,6 +15,7 @@ Imagine being able to run distribution specific applications on any system. Well
 - ConvertRPM to convert RHEL packages into OrangeLinux packages (OLP extension)
 - Fake Distribution naming
 - Quick Install (Installs FakeYUM, FakeAPT, ConvertSystem, OrangeLinux Base System)
+- Dockerized Support, just use our installation script in your docker file and orangelinux is setup.
 
 ### What this contains
 
